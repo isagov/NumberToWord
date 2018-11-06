@@ -21,11 +21,11 @@ namespace NumberToWord.Core
             tens.Add('1', "on");
             tens.Add('2', "iyirmi");
             tens.Add('3', "otuz");
-            tens.Add('4', "qərx");
+            tens.Add('4', "qırx");
             tens.Add('5', "əlli");
             tens.Add('6', "altmış");
             tens.Add('7', "yetmiş");
-            tens.Add('8', "seksen");
+            tens.Add('8', "səksən");
             tens.Add('9', "doxsan");
         }
     }
