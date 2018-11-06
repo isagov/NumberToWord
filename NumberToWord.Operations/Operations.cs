@@ -65,7 +65,7 @@ namespace NumberToWord.Core
 
         public void RemoveZeroesFromArray(string input, string[] array)
         {
-            if (input[6]=='0'&&input[7]=='0')
+            if (input[6]=='0'&&input[7]=='0'&&input[8]=='1')
             {
                 array[13] = "";
             }
